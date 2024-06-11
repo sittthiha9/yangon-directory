@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "yangon-directory",
+    "name": "Yangon Directory",
     "slug": "yangon-directory",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "af821c6f-1f84-43a4-be01-dd52cf6ee82e"
+      }
+    },
+    "owner": "sitt1919"
   }
 }
